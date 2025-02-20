@@ -52,7 +52,7 @@ Ports (PA0-PA7, PB0-PB7, PC0-PC7): Connected to peripheral devices like the 7-se
 ## Hardware Implementation  
 ![WhatsApp Image 2025-02-21 at 3 12 38 AM](https://github.com/user-attachments/assets/a68b0c73-7576-4845-9730-fedd2dde1f70)  
 ![WhatsApp Image 2025-02-21 at 3 12 38 AM (1)](https://github.com/user-attachments/assets/4a3194e2-8caa-4a74-8006-69602e5092ff)  
-![WhatsApp Image 2025-02-21 at 3 12 37 AM](https://github.com/user-attachments/assets/ec6ffc04-f42b-4617-8477-85779fe72f76)
+
 
 
 
